@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DayLillyWishListApp</string>
+    <string name="button_create_new">Create New List</string>
+    <string name="button_view">View  Current Lists</string>
+    <string name="header">DayLily Wish List</string>
+    <string name="delete_button">Delete</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_confirmation">Are you sure you want to delete this list?</string>
+    <string name="wish_list_name">Wish List Name</string>
+    <string name="View_array">Plant Name</string>
+    <string name="View_Second_array_Item">Plant Description</string>
+    <string name="Create_New_Button">Create Wish List</string>
+    <string name="View_List_Button">View Selected List</string>
+    <string name="Add_item_Button">Add Item</string>
+    <string name="Add_Item_Tag">Enter infomation about item to add.</string>
+    <string name="delete_item_Button">Delete Selected Item</string>
+</resources>
