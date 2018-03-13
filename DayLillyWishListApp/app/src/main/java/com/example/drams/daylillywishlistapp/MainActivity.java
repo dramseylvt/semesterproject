@@ -23,4 +23,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, createNewList.class);
         startActivity(intent);
     }
+    public void Delete_item(View view){
+        Intent intent = new Intent (this, Delete_item.class);
+        startActivity(intent);
+    }
+
 }

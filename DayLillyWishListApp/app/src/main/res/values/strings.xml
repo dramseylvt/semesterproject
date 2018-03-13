@@ -14,4 +14,7 @@
     <string name="Add_item_Button">Add Item</string>
     <string name="Add_Item_Tag">Enter infomation about item to add.</string>
     <string name="delete_item_Button">Delete Selected Item</string>
+    <string name="Delete">Delete</string>
+    <string name="Photo">Add Photo</string>
+
 </resources>
